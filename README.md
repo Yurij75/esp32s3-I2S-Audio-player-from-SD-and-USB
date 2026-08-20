@@ -19,9 +19,13 @@ Pins:
 
 -Audio-
 #define AUDIO_I2S_BCLK  16
+
 #define AUDIO_I2S_DOUT  17
+
 #define AUDIO_I2S_LRCLK 18
+
 
 -USB-
 D- 19
+
 D+ 20
