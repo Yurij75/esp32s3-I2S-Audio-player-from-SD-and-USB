@@ -19,7 +19,7 @@ firmware.bin     → 0x10000
 
 Pins:
 
--SD-
+*SD*
 
 #define SD_CS 39
 
@@ -30,7 +30,7 @@ Pins:
 #define SD_MISO 42
 
 
--Audio-
+*Audio*
 
 #define AUDIO_I2S_BCLK  16
 
@@ -39,8 +39,10 @@ Pins:
 #define AUDIO_I2S_LRCLK 18
 
 
--USB-
+*USB*
 
 D- 19
 
 D+ 20
+
+Также подключить питание ко всем устройствам в зависимости от модификации. USB подать 5 волбт.
