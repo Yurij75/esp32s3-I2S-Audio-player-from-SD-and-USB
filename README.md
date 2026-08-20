@@ -9,9 +9,13 @@ Pins:
 
 -SD-
 #define SD_CS 39
+
 #define SD_SCK 41
+
 #define SD_MOSI 40
+
 #define SD_MISO 42
+
 
 -Audio-
 #define AUDIO_I2S_BCLK  16
