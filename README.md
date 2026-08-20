@@ -8,6 +8,7 @@ firmware.bin     → 0x10000
 Pins:
 
 -SD-
+
 #define SD_CS 39
 
 #define SD_SCK 41
@@ -18,6 +19,7 @@ Pins:
 
 
 -Audio-
+
 #define AUDIO_I2S_BCLK  16
 
 #define AUDIO_I2S_DOUT  17
