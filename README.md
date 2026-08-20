@@ -2,7 +2,9 @@
 esp32s3 I2S Audio player from SD and USB
 
 bootloader.bin   → 0x0000
+
 partitions.bin   → 0x8000
+
 firmware.bin     → 0x10000
 
 Pins:
